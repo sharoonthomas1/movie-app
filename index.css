@@ -337,6 +337,8 @@ width: 300px;
 /* RESPONSIVE */
 
 @media (max-width: 320px)  {
+  .btn-play,.btn-play2{
+     display: none!important;}
   .search-bar,.dropdown,.dropdown1,.move {
     display: none;
   }
@@ -385,6 +387,8 @@ width: 300px;
 }
 
 @media (min-width: 321px) and (max-width: 376px) {
+    .btn-play,.btn-play2{
+     display: none!important;}
   .search-bar,.dropdown,.dropdown1,.move {
     display: none;
   }
@@ -396,7 +400,7 @@ width: 300px;
   }
   .box{
     padding-left: 25px!important;
-    top: 20%;
+    top: 55%;
   }
   .btn-play{
     width: 100px;
