@@ -438,7 +438,7 @@ width: 300px;
   }
   .box{
     padding-left: 25px!important;
-    top: 40%;
+    top: 40%!important;
   }
   .btn-play{
     width: 100px;
